@@ -1,0 +1,16 @@
+C:\Users\p020995\Desktop\MiW\sisusik\bin\Debug\net8.0-windows\sisusik.exe
+C:\Users\p020995\Desktop\MiW\sisusik\bin\Debug\net8.0-windows\sisusik.deps.json
+C:\Users\p020995\Desktop\MiW\sisusik\bin\Debug\net8.0-windows\sisusik.runtimeconfig.json
+C:\Users\p020995\Desktop\MiW\sisusik\bin\Debug\net8.0-windows\sisusik.dll
+C:\Users\p020995\Desktop\MiW\sisusik\bin\Debug\net8.0-windows\sisusik.pdb
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\sisusik.Form1.resources
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\sisusik.csproj.GenerateResource.cache
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\sisusik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\sisusik.AssemblyInfoInputs.cache
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\sisusik.AssemblyInfo.cs
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\sisusik.csproj.CoreCompileInputs.cache
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\sisusik.dll
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\refint\sisusik.dll
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\sisusik.pdb
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\sisusik.genruntimeconfig.cache
+C:\Users\p020995\Desktop\MiW\sisusik\obj\Debug\net8.0-windows\ref\sisusik.dll

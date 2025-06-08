@@ -1,0 +1,16 @@
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\wsteczna_propagacja_zad_1.Form1.resources
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\wsteczna_propagacja_zad_1.csproj.GenerateResource.cache
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\wsteczna_propagacja_zad_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\wsteczna_propagacja_zad_1.AssemblyInfoInputs.cache
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\wsteczna_propagacja_zad_1.AssemblyInfo.cs
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\wsteczna_propagacja_zad_1.csproj.CoreCompileInputs.cache
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\bin\Debug\net8.0-windows\wsteczna_propagacja_zad_1.exe
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\bin\Debug\net8.0-windows\wsteczna_propagacja_zad_1.deps.json
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\bin\Debug\net8.0-windows\wsteczna_propagacja_zad_1.runtimeconfig.json
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\bin\Debug\net8.0-windows\wsteczna_propagacja_zad_1.dll
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\bin\Debug\net8.0-windows\wsteczna_propagacja_zad_1.pdb
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\wsteczna_propagacja_zad_1.dll
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\refint\wsteczna_propagacja_zad_1.dll
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\wsteczna_propagacja_zad_1.pdb
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\wsteczna_propagacja_zad_1.genruntimeconfig.cache
+C:\Users\p020995\Desktop\MiW\wsteczna_propagacja_zad_1\obj\Debug\net8.0-windows\ref\wsteczna_propagacja_zad_1.dll

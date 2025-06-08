@@ -1,0 +1,5 @@
+Wejście: 0 0 → Wyjście: 0,005 (oczekiwane: 0) Błąd: 0,005
+Wejście: 1 0 → Wyjście: 0,991 (oczekiwane: 1) Błąd: 0,009
+Wejście: 1 1 → Wyjście: 0,005 (oczekiwane: 0) Błąd: 0,005
+
+Trening zakończony.

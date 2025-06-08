@@ -1,0 +1,16 @@
+C:\Users\p020995\Desktop\MiW\xor\bin\Debug\net8.0-windows\xor.exe
+C:\Users\p020995\Desktop\MiW\xor\bin\Debug\net8.0-windows\xor.deps.json
+C:\Users\p020995\Desktop\MiW\xor\bin\Debug\net8.0-windows\xor.runtimeconfig.json
+C:\Users\p020995\Desktop\MiW\xor\bin\Debug\net8.0-windows\xor.dll
+C:\Users\p020995\Desktop\MiW\xor\bin\Debug\net8.0-windows\xor.pdb
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\xor.Form1.resources
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\xor.csproj.GenerateResource.cache
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\xor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\xor.AssemblyInfoInputs.cache
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\xor.AssemblyInfo.cs
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\xor.csproj.CoreCompileInputs.cache
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\xor.dll
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\refint\xor.dll
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\xor.pdb
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\xor.genruntimeconfig.cache
+C:\Users\p020995\Desktop\MiW\xor\obj\Debug\net8.0-windows\ref\xor.dll
