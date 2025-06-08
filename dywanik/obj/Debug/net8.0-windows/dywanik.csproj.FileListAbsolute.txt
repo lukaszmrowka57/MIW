@@ -1,0 +1,16 @@
+C:\Users\p020995\Desktop\MiW\dywanik\bin\Debug\net8.0-windows\dywanik.exe
+C:\Users\p020995\Desktop\MiW\dywanik\bin\Debug\net8.0-windows\dywanik.deps.json
+C:\Users\p020995\Desktop\MiW\dywanik\bin\Debug\net8.0-windows\dywanik.runtimeconfig.json
+C:\Users\p020995\Desktop\MiW\dywanik\bin\Debug\net8.0-windows\dywanik.dll
+C:\Users\p020995\Desktop\MiW\dywanik\bin\Debug\net8.0-windows\dywanik.pdb
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\dywanik.Form1.resources
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\dywanik.csproj.GenerateResource.cache
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\dywanik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\dywanik.AssemblyInfoInputs.cache
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\dywanik.AssemblyInfo.cs
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\dywanik.csproj.CoreCompileInputs.cache
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\dywanik.dll
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\refint\dywanik.dll
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\dywanik.pdb
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\dywanik.genruntimeconfig.cache
+C:\Users\p020995\Desktop\MiW\dywanik\obj\Debug\net8.0-windows\ref\dywanik.dll
