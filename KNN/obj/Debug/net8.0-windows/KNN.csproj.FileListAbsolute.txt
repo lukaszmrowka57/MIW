@@ -1,0 +1,16 @@
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\KNN.Form1.resources
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\KNN.csproj.GenerateResource.cache
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\KNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\KNN.AssemblyInfoInputs.cache
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\KNN.AssemblyInfo.cs
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\KNN.csproj.CoreCompileInputs.cache
+C:\Users\p020995\Desktop\MiW\knn\KNN\bin\Debug\net8.0-windows\KNN.exe
+C:\Users\p020995\Desktop\MiW\knn\KNN\bin\Debug\net8.0-windows\KNN.deps.json
+C:\Users\p020995\Desktop\MiW\knn\KNN\bin\Debug\net8.0-windows\KNN.runtimeconfig.json
+C:\Users\p020995\Desktop\MiW\knn\KNN\bin\Debug\net8.0-windows\KNN.dll
+C:\Users\p020995\Desktop\MiW\knn\KNN\bin\Debug\net8.0-windows\KNN.pdb
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\KNN.dll
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\refint\KNN.dll
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\KNN.pdb
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\KNN.genruntimeconfig.cache
+C:\Users\p020995\Desktop\MiW\knn\KNN\obj\Debug\net8.0-windows\ref\KNN.dll
